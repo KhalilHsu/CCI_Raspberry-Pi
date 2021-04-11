@@ -1,0 +1,1 @@
+After the eighth week of study, I tried to use raspberry pi to learn python in Minecraft-Pi.
